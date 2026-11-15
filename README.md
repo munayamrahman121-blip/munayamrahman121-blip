@@ -56,21 +56,33 @@ me.introduce()
 
 ---
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=munayamrahman121-bilp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/munayamrahman121-blip">
+<img src="https://img.shields.io/badge/GitHub-Munayam%20Rahman-181717?style=for-the-badge&logo=github" />
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munayamrahman121-bilp&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=munayamrahman121-blip&style=for-the-badge&color=blue&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=munayamrahman121-bilp&theme=tokyonight&hide_border=true" />
+### 💻 My Developer Journey
+
+| Focus Area | Current Status |
+|---|---|
+| Python | 🌱 Learning |
+| Machine Learning | 🎯 Future Goal |
+| Artificial Intelligence | 🔍 Exploring |
+| Data Science | 📚 Upcoming |
+
+<br/>
+
+**Building my skills, one project at a time.**
 
 </div>
-
----
 
 ## 🐍 Contribution Snake Animation
 
