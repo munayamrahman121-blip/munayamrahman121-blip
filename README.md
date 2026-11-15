@@ -74,13 +74,12 @@ me.introduce()
 
 ## 🐍 Contribution Snake Animation
 
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/munayamrahman121-bilp/munayamrahman121-bilp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/munayamrahman121-blip/munayamrahman121-blip/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
-
----
 
 ## 🎯 My 2026 Goals
 
